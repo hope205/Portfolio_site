@@ -31,28 +31,24 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Web Scraping with Tweepy",
+    description: "A tutorial on how to scrape data from Twitter with Tweepy..",
+    url: "https://medium.com/@oluwatimilehinogidan/web-scraping-with-tweepy-ac99603d7b07",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    title: "Beyond the Jupyter Notebooks",
+    description: "Practical step for model deployment with Flask.",
+    url: "https://medium.com/towards-artificial-intelligence/beyond-the-jupyter-notebooks-24b6732a1a7b",
   },
   {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    title: "Customers response prediction",
+    description: "A machine learning model to predict customers response to a marketing campaign.",
+    url: "https://github.com/hope205/Customers_Campaign_Response",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: "Insights from School Rankings Data",
+    description: "A data analysis project on school rankings data.",
+    url: "https://medium.com/pythoneers/insights-from-school-rankings-data-bc4dcd7feee8",
   },
 ];
 
